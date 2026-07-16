@@ -3,43 +3,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-
-<loc>https://enochsamuel161-lgtm.github.io/nexora-labs/</loc>
-
+<loc>https://nexoralabs-xi.vercel.app/</loc>
 <priority>1.0</priority>
-
 </url>
 
 <url>
-
-<loc>https://enochsamuel161-lgtm.github.io/nexora-labs/about.html</loc>
-
+<loc>https://nexoralabs-xi.vercel.app/about.html</loc>
 <priority>0.8</priority>
-
 </url>
 
 <url>
-
-<loc>https://enochsamuel161-lgtm.github.io/nexora-labs/services.html</loc>
-
+<loc>https://nexoralabs-xi.vercel.app/services.html</loc>
 <priority>0.8</priority>
-
 </url>
 
 <url>
-
-<loc>https://enochsamuel161-lgtm.github.io/nexora-labs/blog.html</loc>
-
+<loc>https://nexoralabs-xi.vercel.app/blog.html</loc>
 <priority>0.8</priority>
-
 </url>
 
 <url>
-
-<loc>https://enochsamuel161-lgtm.github.io/nexora-labs/contact.html</loc>
-
+<loc>https://nexoralabs-xi.vercel.app/contact.html</loc>
 <priority>0.8</priority>
-
 </url>
 
 </urlset>
