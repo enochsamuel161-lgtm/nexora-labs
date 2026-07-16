@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://enochsamuel161-lgtm.github.io/nexora-labs/sitemap.xml
+Sitemap: https://nexoralabs-xi.vercel.app/sitemap.xml
